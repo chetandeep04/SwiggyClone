@@ -1,0 +1,20 @@
+.container{
+    height: 60px;
+    background-color: orange;
+    width: 100%;
+display: flex;
+align-items: center;
+}
+.left{
+flex: 2;
+display: flex;
+justify-content:center ;
+}
+.right{
+flex: 10;
+display: flex;
+justify-content:flex-evenly;
+}
+.link{
+    margin: 0px 20px;
+}
