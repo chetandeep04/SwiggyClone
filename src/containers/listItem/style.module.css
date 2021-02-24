@@ -1,0 +1,22 @@
+.list_item_container{
+    display: flex;
+    margin: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.logo{
+background-color: brown;
+color: azure;
+font-size: 16;
+height: 50px;
+width: 50px;
+border-radius: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.info{
+    
+
+}

@@ -7,7 +7,7 @@ export default function Header(props)
     return <div>
         <div className={styles.container}>
     <div className={styles.left}>
-    <h2>Swiggy</h2>
+    <Link className={styles.link} to='/'><h2>Swiggy</h2></Link>
     </div>
     <div className={styles.right}>
         <Input placeholder="Search Restaurent"></Input>
