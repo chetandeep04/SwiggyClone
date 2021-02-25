@@ -1,0 +1,27 @@
+.main{
+    background-color:blueviolet;  
+}
+.header{
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #fff;
+    height: 300px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+.d1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.d2{
+    font-size: 22px;
+    line-height: 1.2;
+    opacity: .8;
+}
+.image{
+    border-radius: 50px;
+}
