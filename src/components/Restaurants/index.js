@@ -9,11 +9,9 @@ export default class Restaurants extends React.Component
     }
     render()
     {
-        return <div>Fetching Menu for {this.props.match.params.id}</div>
-        ListItem.map((item)=>
-        {
-            
-        })
+        return <div><div>Fetching Menu for {this.props.match.params.id}</div>
+        </div>
+       
 
     }
 }

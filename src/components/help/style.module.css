@@ -1,0 +1,39 @@
+.main{
+    padding-top: 33px;
+   width: 100%;
+   height: 1000px;
+    margin: 0 auto;
+    background-color: rgb(89, 0, 255);
+}
+h1{
+    margin: 50px;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color:whitesmoke
+    
+}
+.mi{
+    margin-bottom: 37px;
+    margin-top: 37px;
+    position: relative;
+}
+h3{
+    margin: 50px;
+    color: whitesmoke;
+}
+
+.body{
+    margin: 100px;
+    margin-top: 30px;
+    background-color: coral;
+    border-radius: 30px;
+}
+h2,h4{
+margin-left: 30px;
+color:whitesmoke;
+}
+p{
+    margin-left: 30px;
+    color: beige;
+}
