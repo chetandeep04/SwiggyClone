@@ -10,10 +10,14 @@ export default function Offers()
             </div>
             <div>
                 <img className={styles.image} 
-                src="https://lh3.googleusercontent.com/proxy/xSwZrURAtpCL8GztRCcQbCH_Eq7paZagayBSaxA5wEzItip4h7T4fb7ZvKduT3Ltf2QaZIc3FCWHrsXtD4cilvbPPUuo7PaP7OH0I8lJQu8DNw8ZQ3Q_pFU7LwQ">
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQQuPu06hjvzFH31XFE3KuJQcF9g_pgJ6DA&usqp=CAU">
 
                 </img>
+               
             </div>
         </div>
+       <div>
+           <h1>Sample Page for offers</h1>
+       </div>
     </div>
 }
