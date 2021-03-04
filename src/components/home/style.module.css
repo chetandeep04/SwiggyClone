@@ -2,7 +2,7 @@
     background-color: red;
 }
 .container{
-background-color: lightpink;
+background-color: grey;
 justify-content: center;
 flex-direction: column;
 width: 500px;

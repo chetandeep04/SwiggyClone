@@ -17,7 +17,7 @@ export default function Offers()
             </div>
         </div>
        <div>
-           <h1>Sample Page for offers</h1>
+           <h1 className={styles.hel}>Sample Page for offers</h1>
        </div>
     </div>
 }

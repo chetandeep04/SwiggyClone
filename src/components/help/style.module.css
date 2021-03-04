@@ -5,7 +5,7 @@
     margin: 0 auto;
     background-color: rgb(89, 0, 255);
 }
-h1{
+.head1{
     margin: 50px;
     font-size: 32px;
     font-weight: 600;
@@ -18,7 +18,7 @@ h1{
     margin-top: 37px;
     position: relative;
 }
-h3{
+.head3{
     margin: 50px;
     color: whitesmoke;
 }
@@ -29,11 +29,11 @@ h3{
     background-color: coral;
     border-radius: 30px;
 }
-h2,h4{
+.head2,.head4{
 margin-left: 30px;
 color:whitesmoke;
 }
-p{
+.para{
     margin-left: 30px;
     color: beige;
 }
