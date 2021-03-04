@@ -1,5 +1,6 @@
 .header{
     background-color: red;
+    text-decoration: none;
 }
 .container{
 background-color: grey;
@@ -7,4 +8,5 @@ justify-content: center;
 flex-direction: column;
 width: 500px;
 margin: 50px;
+text-decoration: none;
 }

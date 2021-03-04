@@ -3,6 +3,7 @@
     margin: 10px;
     background-color: aliceblue;
     border-radius: 10px;
+    text-decoration: none;
 }
 .logo{
 background-color: brown;
@@ -17,6 +18,7 @@ justify-content: center;
 
 }
 .info{
-    
-
+    text-decoration: none;
+    width: 100%;
+    text-emphasis: none;
 }
